@@ -3,7 +3,7 @@
 A cross-platform React Native application built for the **Google Home APIs Developer Challenge 2025**.  
 It intelligently monitors, visualizes, and optimizes your smart home energy usage using Google OAuth, HomeGraph API, and geolocation-based automation.
 
-![Smart Energy Optimizer Screenshot](./assets/Screenshot 2025-07-06 095319.png)
+![Smart Energy Optimizer Screenshot](./assets/app-screenshot.png)
 
 ---
 
