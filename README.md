@@ -33,5 +33,5 @@ It intelligently monitors, visualizes, and optimizes your smart home energy usag
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com:sairamireddy6/smart-energy-optimizer.gi
+   git clone https://github.com:sairamireddy6/smart-energy-optimizer.git
    cd smart-energy-optimizer
